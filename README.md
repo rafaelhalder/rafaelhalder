@@ -37,7 +37,7 @@
  
 ### Backend
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6db33f?style=for-the-badge&logo=spring&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white) ![Lambda](https://img.shields.io/badge/-Lambda-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white) ![Batch](https://img.shields.io/badge/-Batch-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6db33f?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Mobile
 
@@ -46,12 +46,12 @@
 
 ### Melhores Práticas
 
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=for-the-badge) ![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=for-the-badge) ![Code Review](https://img.shields.io/badge/-Code%20Review-333333?style=for-the-badge) ![Mentoring](https://img.shields.io/badge/-Mentoring-333333?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=for-the-badge) ![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=for-the-badge) 
 
 
 ### Linguagens
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffca28?style=for-the-badge&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffca28?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <br/>
 
 ### 📊 Estatísticas
