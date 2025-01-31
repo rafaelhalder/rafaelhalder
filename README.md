@@ -4,6 +4,7 @@
 
 Atualmente trabalho com a linguagem PHP para Web desenvolvimento e Flutter com a parte mobile (Android,IOS), estou sempre em busca de novas experiências, pessoas na área ou em
 outras para compartilharmos conhecimentos, novas ideias.
+
 📫 Você pode entrar em contato comigo no [LinkedIn](https://www.linkedin.com/in/rafaelhsilva/) ou me enviar um e-mail para rafaelhalder@gmail.com.
 
 
