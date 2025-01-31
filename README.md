@@ -1,9 +1,15 @@
-# 👩🏻‍💻 Rafael Silva
+# 👨‍💻 Rafael Silva
 
 **`Desenvolvedor FullStack`**
 
-Atualmente trabalho com a linguagem PHP para Web desenvolvimento e Flutter com a parte mobile (Android,IOS), estou sempre em busca de novas experiências, pessoas na área ou em
-outras para compartilharmos conhecimentos, novas ideias.
+
+👨‍💻 Sou FullStack Developer com foco no desenvolvimento de aplicações com código limpe e bem arquitetado.
+
+🚀 Estou trabalhando atualmente como Fullstack Developer na empresa Tecnorisk
+
+🌱 Aprendizado continuo e sempre ansioso para novos aprendizados para me manter em dia com a tecnologia
+
+🏆 Meus favoritos incluem React, Flutter,PHP
 
 📫 Você pode entrar em contato comigo no [LinkedIn](https://www.linkedin.com/in/rafaelhsilva/) ou me enviar um e-mail para rafaelhalder@gmail.com.
 
